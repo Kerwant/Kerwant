@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kerwant
-- 👀 I’m interested in translating (English, Russian, Ukrainian)
-- 💞️ I’m looking to collaborate on translating
+- 👀 I’m interested in videocreating, programming, development
 - 📫 You can wright me on Kerwant@gmail.com
 
 <!---
